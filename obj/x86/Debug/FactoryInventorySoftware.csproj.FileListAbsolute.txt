@@ -1,0 +1,140 @@
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.pdb
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\MainWindow.baml
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\App.g.cs
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware_MarkupCompile.cache
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.g.resources
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.Properties.Resources.resources
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.exe
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.pdb
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe.config
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\FIS.baml
+C:\Users\Biswajit Manna\AppData\Local\Temporary Projects\FactoryInventorySoftware\obj\x86\Debug\FIS.g.cs
+C:\Users\Biswajit Manna\documents\visual studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe.config
+C:\Users\Biswajit Manna\documents\visual studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.exe
+C:\Users\Biswajit Manna\documents\visual studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.pdb
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.pdb
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FIS.baml
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\MainWindow.baml
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FIS.g.cs
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\App.g.cs
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware_MarkupCompile.cache
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.g.resources
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.Properties.Resources.resources
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\Window1.baml
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\Window1.g.cs
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe.config
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.exe
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.pdb
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\App.g.cs
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware_MarkupCompile.cache
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.g.resources
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.Properties.Resources.resources
+C:\Users\Biswajit Manna\Documents\Visual Studio 2010\Projects\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\itextsharp.xml
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe.config
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.exe
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.pdb
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.pdb
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\itextsharp.xml
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FIS.baml
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\MainWindow.baml
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\Window1.baml
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FIS.g.cs
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\MainWindow.g.cs
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\Window1.g.cs
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\App.g.cs
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware_MarkupCompile.cache
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.g.resources
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.Properties.Resources.resources
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\theSD\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.pdb
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\MainWindow.baml
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\Window1.baml
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\Window1.g.cs
+D:\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe.config
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.exe
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.pdb
+D:\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe
+D:\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.pdb
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\MainWindow.baml
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\Window1.baml
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\MainWindow.g.cs
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\Window1.g.cs
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\App.g.cs
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware_MarkupCompile.cache
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.g.resources
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.Properties.Resources.resources
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\Window2.baml
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\Window2.g.cs
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.csproj.GenerateResource.Cache
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.csprojResolveAssemblyReference.cache
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\AddNewItem.baml
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\AddNewItem.g.cs
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\Images\Additing.baml
+C:\Users\Biswajit Manna\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\Images\Additing.g.cs
+C:\Users\SUDIPTO\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe.config
+C:\Users\SUDIPTO\Desktop\FactoryInventorySoftware\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.exe
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe.config
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.exe
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.csprojResolveAssemblyReference.cache
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\AddNewItem.baml
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\Images\Additing.baml
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\MainWindow.baml
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\AddNewItem.g.cs
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\Images\Additing.g.cs
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\MainWindow.g.cs
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\App.g.cs
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware_MarkupCompile.cache
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.g.resources
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.Properties.Resources.resources
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.csproj.GenerateResource.Cache
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.pdb
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.pdb
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.Form1.resources
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.Form2.resources
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\BottleInventory.baml
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\BottleInventory.g.cs
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\Window2.baml
+E:\FactoryInventorySoftware1\FactoryInventorySoftware\obj\x86\Debug\Window2.g.cs
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe.config
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.exe
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.pdb
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.exe
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\bin\Debug\FactoryInventorySoftware.pdb
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.csprojResolveAssemblyReference.cache
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\AddNewItem.baml
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\Images\Additing.baml
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\MainWindow.baml
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\BottleInventory.baml
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\Window2.baml
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\AddNewItem.g.cs
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\Images\Additing.g.cs
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\MainWindow.g.cs
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\BottleInventory.g.cs
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\Window2.g.cs
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\App.g.cs
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware_MarkupCompile.cache
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.g.resources
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.Form1.resources
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.Form2.resources
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.Properties.Resources.resources
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.csproj.GenerateResource.Cache
+D:\FactoryInventorySoftware1.1\FactoryInventorySoftware\obj\x86\Debug\FactoryInventorySoftware.Form3.resources
